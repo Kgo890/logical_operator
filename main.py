@@ -9,3 +9,4 @@ elif not is_magician:
     print("you need magic powers")
 else:
     print("you are nothing")
+
